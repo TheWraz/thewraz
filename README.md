@@ -37,6 +37,6 @@
 
 ## Как со мной связаться
 
-[![Email](https://img.shields.io/badge/Wraz@bk.ru-005FF9?style=flat&logo=gmail&logoColor=white)](mailto:Wraz@bk.ru)
 [![Telegram](https://img.shields.io/badge/@TheWraz-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/TheWraz)
 [![GitHub](https://img.shields.io/badge/TheWraz-181717?style=flat&logo=github&logoColor=white)](https://github.com/TheWraz)
+📧 **Wraz@bk.ru**
